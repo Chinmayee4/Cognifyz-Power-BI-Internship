@@ -123,8 +123,8 @@ Final Outcome: A user-friendly, insightful dashboard summarizing all findings in
 ✅ Enhance User Interactivity: Build advanced Power BI reports for better decision-making.
 
 ## 📩 Connect With Me
-### 🚀 LinkedIn: [Your Profile Link]
-### 📧 Email: [Your Email]
+### 🚀 LinkedIn: [https://www.linkedin.com/in/chinmayee-barik-analyst/]
+### 📧 Email: [chinmayeebarik07@gmail.com]
 
 I would love to hear your feedback and suggestions! Let’s collaborate on making investment analysis even better. 😊
 

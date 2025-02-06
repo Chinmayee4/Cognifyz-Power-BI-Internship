@@ -97,8 +97,11 @@ Final Outcome: A user-friendly, insightful dashboard summarizing all findings in
 
 🛠 Tools & Technologies Used
 🔹 Power BI (Data Visualization & Dashboarding)
+
 🔹 Power Query (Data Cleaning & Transformation)
+
 🔹 DAX (Data Analysis Expressions)
+
 🔹 Excel & CSV Files (Data Source)
 
 ## 📌 Repository Structure

@@ -9,7 +9,9 @@ Each task was designed to analyze, visualize, and extract key insights using Pow
 ### Objective: Understand and summarize key statistics in the dataset.
 #### Key Steps:
 ✅ Imported and explored dataset structure.
+
 ✅ Calculated average age (27.8 years) and percentage of investors in different asset classes.
+
 ✅ Analyzed common savings objectives (Retirement, Healthcare, Education).
 
 ##### 🔹 Insights:
@@ -21,6 +23,7 @@ Each task was designed to analyze, visualize, and extract key insights using Pow
 ### Objective: Identify gender-based differences in investment preferences.
 #### Key Steps:
 ✅ Created visual comparisons for investments by gender.
+
 ✅ Analyzed investment amounts and preferences across equity, bonds, and mutual funds.
 
 ##### 🔹 Insights:
@@ -34,6 +37,7 @@ Each task was designed to analyze, visualize, and extract key insights using Pow
 ### Objective: Analyze the relationship between savings goals and investment choices.
 #### Key Steps:
 ✅ Examined correlations between objectives (e.g., Capital Appreciation, Growth) and investment avenues (e.g., Equity, Fixed Deposits, Mutual Funds).
+
 ✅ Created charts for most preferred investment choices per objective.
 
 ##### 🔹 Insights:
@@ -45,6 +49,7 @@ Each task was designed to analyze, visualize, and extract key insights using Pow
 ### Objective: Examine how long investors hold investments and how often they monitor them.
 #### Key Steps:
 ✅ Visualized investment durations.
+
 ✅ Analyzed how frequently users monitor investments (daily, weekly, monthly).
 
 ##### 🔹 Insights:
@@ -56,6 +61,7 @@ Each task was designed to analyze, visualize, and extract key insights using Pow
 ### Objective: Understand why people invest (e.g., better returns, tax benefits).
 #### Key Steps:
 ✅ Created trend analysis charts.
+
 ✅ Identified primary investment motivations.
 
 ##### 🔹 Insights:
@@ -79,6 +85,7 @@ Each task was designed to analyze, visualize, and extract key insights using Pow
 ### Objective: Build a Power BI dashboard incorporating all insights.
 #### Key Steps:
 ✅ Designed an interactive dashboard showcasing all analyses.
+
 ✅ Used filters and slicers for dynamic data exploration.
 
 ##### 🔹 Key Features of the Dashboard:
@@ -106,12 +113,14 @@ Final Outcome: A user-friendly, insightful dashboard summarizing all findings in
 │── README.md  
 ## 📢 Future Enhancements
 ✅ Improve Predictive Analysis: Use machine learning models to predict investment trends.
+
 ✅ Incorporate External Financial Data: Add stock market trends for a holistic investment analysis.
+
 ✅ Enhance User Interactivity: Build advanced Power BI reports for better decision-making.
 
 ## 📩 Connect With Me
-## 🚀 LinkedIn: [Your Profile Link]
-## 📧 Email: [Your Email]
+### 🚀 LinkedIn: [Your Profile Link]
+### 📧 Email: [Your Email]
 
 I would love to hear your feedback and suggestions! Let’s collaborate on making investment analysis even better. 😊
 

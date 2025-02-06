@@ -95,7 +95,8 @@ Each task was designed to analyze, visualize, and extract key insights using Pow
 * Reasons for investment & information sources.
 Final Outcome: A user-friendly, insightful dashboard summarizing all findings in an interactive and visually engaging manner.
 
-🛠 Tools & Technologies Used
+## 🛠 Tools & Technologies Used
+
 🔹 Power BI (Data Visualization & Dashboarding)
 
 🔹 Power Query (Data Cleaning & Transformation)
